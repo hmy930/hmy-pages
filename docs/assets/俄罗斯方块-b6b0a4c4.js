@@ -1,0 +1,1 @@
+import{d as t,aj as a,j as s,c as o,a as c,z as n,o as i,_ as l}from"./commonMain-03e7a9fe.js";const _=40,r=10,d=20,p=t({__name:"俄罗斯方块",setup(h){const e=a({height:d*_+1,width:r*_+1});return s([]),(m,u)=>(i(),o("div",null,[c("div",{class:"game-box",style:n({height:e.height+"px",width:e.width+"px"})},null,4)]))}});const x=l(p,[["__scopeId","data-v-8bfc673a"]]);export{x as default};
