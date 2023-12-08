@@ -1,0 +1,1 @@
+import{_ as t,c as s,o as c,a as e}from"./commonMain-b50a3a64.js";const o={name:"svgTest"},r=e("svg",{height:"10",width:"30"},[e("rect",{x:"0",y:"4",width:"30",height:"2",fill:"blue"}),e("circle",{r:"3.5",cx:"15",cy:"5",fill:"blue"})],-1),a=[r];function n(i,l,_,d,h,f){return c(),s("div",null,a)}const u=t(o,[["render",n]]);export{u as default};
