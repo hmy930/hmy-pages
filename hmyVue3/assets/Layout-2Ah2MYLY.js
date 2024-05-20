@@ -1,1 +1,0 @@
-import{_ as o,e as t,o as s,c as a,a as c,f as r}from"./commonMain-18EjtHMn.js";const n={},_={class:"layout"},d={class:"layout-main is-mrfz"};function i(f,l){const e=t("router-view");return s(),a("div",_,[c("div",d,[r(e)])])}const u=o(n,[["render",i],["__scopeId","data-v-23351c2f"]]);export{u as default};
